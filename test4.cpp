@@ -18,6 +18,3 @@
 
 #include <iostream>
 
-void main(){
-
-}
